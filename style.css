@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(3, 188, 188);
+}
+
+.container {
+    margin-left: 38%;
+}
+
+#inputfield {
+    font-size: 25px;
+    height: 20px;
+    margin-top: -70px;
+    padding: 10px 15px;
+    padding-bottom: 10px;
+    border: 2px solid darkgoldenrod;
+    border-radius: 80px;
+    color: rgb(67, 67, 221);
+    font-weight: 600;
+}
+
+#add:hover {
+    background-color: bisque;
+    border: 4px solid black;
+}
+
+#add {
+    padding: 4px 6px;
+    height: 50px;
+    width: 130px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    font-size: 18px;
+    background-color: rgb(208, 255, 0);
+    border-radius: 100px;
+    border: 2px solid rgb(0, 0, 0);
+    font-weight: 520;
+}
+
+#id {
+    margin: auto auto;
+}
